@@ -1,0 +1,6 @@
+{
+  "name": "Monitor de Ativos & Médias",
+  "description": "Acompanhamento prático e comparativo de preços atuais frente a médias históricas de cotações em tempo real.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
